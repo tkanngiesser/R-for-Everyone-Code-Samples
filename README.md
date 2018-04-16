@@ -1,1 +1,1 @@
-# R-for-Everything-Code-Samples
+# R-for-Everyone-Code-Samples
